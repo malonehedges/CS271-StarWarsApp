@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StarWarsApp</string>
+    <string name="title_activity_main">StarWarsMovies</string>
+
+    <string name="has_seen_status_default">Has seen?</string>
+    <string name="has_seen_status_already_seen">Already seen</string>
+    <string name="has_seen_status_want_to_see">Want to see</string>
+    <string name="has_seen_status_do_not_like">Do not like</string>
+
+    <string name="submit_button">Submit</string>
+    <string name="movie_detail_description">Description</string>
+    <string name="movie_detail_thumbnail_description">This is a thumbnail</string>
+    <string name="movie_detail_title">Movie Title</string>
+    <string name="movie_list_thumbnail_description">This is a thumbnail</string>
+    <string name="movie_list_title">Movie Title</string>
+    <string name="movie_list_description">Description</string>
+    <string name="movie_list_characters">Characters, Go, Here</string>
+</resources>
